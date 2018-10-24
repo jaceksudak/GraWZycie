@@ -1,5 +1,5 @@
 # GraWZycie
-My Java program that illustrate most of OOP concepts. It's a simple life symulator. There are Animal and Plants objects going around the gameboard interacting with each other.
+One of my first Java OOP programs. It illustrates most of OOP basic concepts. It's a simple life symulator. There are Animal and Plants objects going around the gameboard interacting with each other.
 
 
  * This Program is a simulation of a virtual world. The world is squared board in size NxN (N is set by the user at the start).
